@@ -69,4 +69,3 @@ For any questions, please visit my github profile at https://github.com/avilwock
 
 ## Acknowledgements
 
-Amanda Vilwock
